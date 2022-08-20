@@ -1,0 +1,14 @@
+{
+  "name": "analog-clock",
+  "version": "1.0.0",
+  "description": "analog clock",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marwan Zaky",
+  "license": "ISC",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}
